@@ -29,4 +29,5 @@ I build scalable backend applications, design efficient SQL databases, and conne
 ---
 
 ### 📫 Connect with Me
-- Email: manishaveilumuthu@gmail.com  
+📫 Email: [manishaveilumuthu@gmail.com](mailto:manishaveilumuthu@gmail.com)
+
