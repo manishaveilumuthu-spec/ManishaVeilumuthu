@@ -29,6 +29,6 @@ I build scalable backend applications, design efficient SQL databases, and conne
 ---
 
 ### 📫 Connect with Me
-📫 Email: [muthumanisha71@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=muthumanisha71@gmail.com)
+📫 Email: [manishaveilumuthu@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=manishaveilumuthu@gmail.com)
 
 
